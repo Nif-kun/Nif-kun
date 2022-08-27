@@ -21,6 +21,7 @@ If you came here for my work and found it useful, I'm glad you did! I hope to co
 <br/>
 
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api?username=nif-kun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nif-kun&theme=dark&hide_border=false)<br/>
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=nif-kun&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nif-kun&theme=dark&hide_border=false"/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nif-kun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
