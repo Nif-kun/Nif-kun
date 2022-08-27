@@ -21,7 +21,7 @@ If you came here for my work and found it useful, I'm glad you did! I hope to co
 <br/>
 
 ## Github Stats
-<table><tr><td valign="top" width="50%">
+<table style="border:none"><tr><td valign="top" width="50%">
 
 <div align="center"><img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=nif-kun&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></div>
 <div align="center"><img align="center" style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nif-kun&theme=dark&hide_border=false"/></div>
