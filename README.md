@@ -28,10 +28,9 @@ If you came here for my work and found it useful, I'm glad you did! I hope to co
 </td><td valign="top" width="50%">
 
 <div align="center"><img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nif-kun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></div>
-  
-
+ 
 </td></tr></table>  
 
-<br/>  
+<br/> 
 
 
