@@ -40,7 +40,7 @@ If you came here for my work and found it useful, I'm glad you did! I hope to co
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Languages  
+<h1 align="center"> Languages </h1> 
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
