@@ -21,6 +21,18 @@ If you came here for my work and found it useful, I'm glad you did! I hope to co
 <br/>
 
 ## Github Stats
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nif-kun&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nif-kun&theme=dark&hide_border=false"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nif-kun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<table><tr><td valign="top" width="50%">
+
+<div align="center"><img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=nif-kun&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></div>
+<div align="center"><img align="center" style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nif-kun&theme=dark&hide_border=false"/></div>
+</td><td valign="top" width="50%">
+
+<div align="center"><img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nif-kun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></div>
+  
+
+</td></tr></table>  
+
+<br/>  
+
+
+
