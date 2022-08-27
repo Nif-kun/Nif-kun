@@ -1,4 +1,4 @@
-## Hi there, I'm Josh Larida! Welcome to my profile 👋
+## Hi there, I'm Josh Larida. Welcome to my profile! 👋
 <div align="center">
   <a href="https://github.com/https://github.com/Nif-kun">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nif-kun&show_icons=true&theme=tokyonight&border_color=515471&include_all_commits=true&count_private=true"/>
