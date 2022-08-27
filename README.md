@@ -24,3 +24,9 @@
   <a href="https://www.facebook.com/100000219791336" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
  
 </div>
+
+### A little bit about myself~
+
+I'm a college student focusing in software and game development. Currently, many of my projects have been game mods, plugins, or libraries. But for the most part, I'm slowly filling up my repository with software I've developed.
+
+If you came here for my work and found it useful, I'm glad you did! I hope to continue contributing in both open source and private projects.
