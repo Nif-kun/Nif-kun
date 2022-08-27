@@ -37,7 +37,7 @@ If you came here for my work and found it useful, I'm glad you did! I hope to co
 
 
 
-## My Skill Set  
+## Skill Set  
 <table><tr><td valign="top" width="33%">
 
 <h3 align="center"> Languages </h3> 
