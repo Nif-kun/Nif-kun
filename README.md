@@ -1,8 +1,8 @@
 ## Hi there, I'm Josh Larida. Welcome to my profile! 👋
 <div align="center">
   <a href="https://github.com/https://github.com/Nif-kun">
-  <img height="180em" src="https://github-readme-stats-nif-kun.vercel.app/api?username=Nif-kun&show_icons=true&theme=tokyonight&border_color=515471&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-nif-kun.vercel.app/api/top-langs/?username=Nif-kun&layout=compact&langs_count=7&theme=tokyonight&border_color=515471"/>
+  <img height="180em" src="https://github-readme-stats-self-kappa-32.vercel.app/api?username=Nif-kun&show_icons=true&theme=tokyonight&border_color=515471&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-self-kappa-32.vercel.app/api/top-langs/?username=Nif-kun&layout=compact&langs_count=7&theme=tokyonight&border_color=515471"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
