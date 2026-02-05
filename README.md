@@ -1,9 +1,11 @@
 ## Hi there, I'm Josh Larida. Welcome to my profile! 👋
 <div align="center">
   <a href="https://github.com/https://github.com/Nif-kun">
+    <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nif-kun&show_icons=true&theme=tokyonight&border_color=515471&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nif-kun&layout=compact&langs_count=7&theme=tokyonight&border_color=515471"/>
-</div>
+-->
+  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
